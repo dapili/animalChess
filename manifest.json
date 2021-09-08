@@ -1,0 +1,28 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/animalChess/ACGrid.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/animalChess/ACAlgo.js",
+		"bin-debug/EventBus.js",
+		"bin-debug/util/ArrayUtil.js",
+		"bin-debug/util/CCDUtil.js",
+		"bin-debug/util/CollisionUtil.js",
+		"bin-debug/util/HttpUtil.js",
+		"bin-debug/util/MathUtil.js",
+		"bin-debug/util/StringUtil.js",
+		"bin-debug/util/TimeUtil.js"
+	]
+}
