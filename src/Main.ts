@@ -232,5 +232,6 @@ class Main extends eui.UILayer {
     private onButtonClick(e: egret.TouchEvent) {
         this._count %= 2;
         this._ac.auto(this._count);
+        this._count++;
     }
 }
